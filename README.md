@@ -1,4 +1,4 @@
-"remote"
+"remote" "local"
 # merge-and-conflict
 Quest 5
 
